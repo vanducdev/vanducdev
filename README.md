@@ -1,10 +1,11 @@
-# � H4CK3R PR0F1L3 - CYBERSECURITY ENTHUSIAST
+# 💻 H4CK3R PR0F1L3 - CYBERSECURITY ENTHUSIAST
 
 ```python
 class CyberSecuritySpecialist:
     def __init__(self):
         self.username = "vanducdev"
         self.alias = "V4N_DUC"
+        self.name = "Trần Minh Triết"
         self.role = "Cybersecurity Researcher & Full Stack Developer"
         self.location = "Digital Underground 🌐"
         self.specialization = {
