@@ -1,5 +1,3 @@
-# 💻 H4CK3R PR0F1L3 - CYBERSECURITY ENTHUSIAST
-
 ```python
 class CyberSecuritySpecialist:
     def __init__(self):
