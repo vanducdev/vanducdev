@@ -33,13 +33,13 @@ hacker = CyberSecuritySpecialist()
 print(hacker.hack_the_planet())
 ```
 
-## � About Me
+## About Me
 
 Cybersecurity enthusiast and full-stack developer with a passion for ethical hacking and building secure applications. I believe in the power of code to protect and serve the digital world. From penetration testing to secure development, I'm on a mission to make the internet safer.
 
 ---
 
-## �️ Cybersecurity Arsenal
+## Cybersecurity Arsenal
 
 ### 🔴 Offensive Security
 - ![Penetration Testing](https://img.shields.io/badge/Pentest-FF0000?style=for-the-badge&logo=hack-the-box&logoColor=white)
@@ -75,7 +75,7 @@ Cybersecurity enthusiast and full-stack developer with a passion for ethical hac
 
 ---
 
-## � Cyber Stats & Activity
+## Cyber Stats & Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanducdev&show_icons=true&theme=radical&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanducdev&layout=compact&theme=radical&bg_color=000000&title_color=FF0000&text_color=FFFFFF)
@@ -117,7 +117,7 @@ Cybersecurity enthusiast and full-stack developer with a passion for ethical hac
 
 ---
 
-## � Terminal Quote of the Day
+## Terminal Quote of the Day
 
 ```bash
 $ whoami
