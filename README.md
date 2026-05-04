@@ -5,7 +5,7 @@ class CyberSecuritySpecialist:
         self.alias = "V4N_DUC"
         self.name = "Trần Minh Triết"
         self.role = "Cybersecurity Researcher & Full Stack Developer"
-        self.location = "Digital Underground 🌐"
+        self.location = "Digital Underground"
         self.specialization = {
             "offensive": ["Penetration Testing", "Red Teaming", "Vulnerability Assessment"],
             "defensive": ["Security Analysis", "Incident Response", "Threat Hunting"],
@@ -22,10 +22,10 @@ class CyberSecuritySpecialist:
         self.motto = "In code we trust, in security we believe."
         
     def hack_the_planet(self):
-        return "🔥 Securing the digital world, one line of code at a time!"
+        return "Securing the digital world, one line of code at a time!"
     
     def get_status(self):
-        return "⚡ Active: Hunting vulnerabilities & building secure solutions"
+        return "Active: Hunting vulnerabilities & building secure solutions"
 
 hacker = CyberSecuritySpecialist()
 print(hacker.hack_the_planet())
@@ -107,7 +107,7 @@ Cybersecurity enthusiast and full-stack developer with a passion for ethical hac
 ## 🏆 Certifications & Achievements
 
 ```
-[� OSCP - Offensive Security Certified Professional]
+[OSCP - Offensive Security Certified Professional]
 [🛡️ CEH - Certified Ethical Hacker]
 [📊 CompTIA Security+]
 [🔐 CISSP - Certified Information Systems Security Professional]
